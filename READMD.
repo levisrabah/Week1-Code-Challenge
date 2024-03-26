@@ -1,4 +1,4 @@
-#Grade Generator
+###Student Grade Generator
 
 #### Date, 2024/03/26
 
@@ -29,9 +29,52 @@ Javascript
 ## Support and contact details
 github.com/levisrabah
 
-### License
-The content of this site is licensed under the MIT license
-Copyright (c) 2018.
+
+## Speed Detector
+
+#### Date 2024/03/26
+#### By Levis Rabah
+##Description
+This is a Javascript program that takes speed of the car as input for example 8okm/h. If the sped is less than 70,the program print "Ok".
+Otherwise for every 5km/s above the speed limit which is 70km/h, the program give the driver one demerit point and print the total number of demerit points.
+For example: if the speed is 80, it should print: “Points: 2”. If the driver gets more than 12 points, the function should print: “License suspended”.
+
+##Installation
+For purposes of downloading the document in GitHub, use git clone
+
+##Installation Requirements
+Git
+
+##Installation Instruction
+git clone https://github.com/levisrabah/WEEK1 CODE CHALLENGE
+
+## Technology used
+JavaScript
+## support and Contact details
+github.com/levisrabah
+
+
+Net Salary Calculator
+
+### Date 2024/03/26
+#### By Levis Rabah
+##Description
+This is a JavaScript program Whose major task is to calculate an individual's Net Salary by getting the inputs of basic salary and benefits. The program calculates the PAYE (tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary.
+
+##Installation
+For purposes of downloading the document in GitHub, use git clone
+
+##Installation Requirements
+Git
+
+##Installation Instruction
+git clone https://github.com/levisrabah/WEEK1 CODE CHALLENGE
+
+## Technology used
+JavaScript
+## support and Contact details
+github.com/levisrabah
+
 
 
 
