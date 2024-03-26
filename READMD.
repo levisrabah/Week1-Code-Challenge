@@ -1,0 +1,53 @@
+#Grade Generator
+
+#### Date, 2024/03/26
+
+#### By *Levis Rabah*
+
+## Description
+This is a JavaScript Program that generates grades specifically for students depending on the marks scored by the student.
+The program prompts the user to enter the marks scored by the student. The marks entered should be in the range of 0 to 100.
+The grade is output based on the following conditions:
+A > 79, B - 60 to 79, C -  49 to 59, D - 40 to 49, E - less 40.
+
+
+
+## Installation
+For purposes of downloading this document in Github, use git clone.
+
+## Installation Requirements
+Git
+
+### Installation instruction
+```
+Git clone https://github.com/levisrabah/WEEK1 CODE CHALLENGE
+
+
+## Technology used
+Javascript
+
+## Support and contact details
+github.com/levisrabah
+
+### License
+The content of this site is licensed under the MIT license
+Copyright (c) 2018.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
